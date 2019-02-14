@@ -4,6 +4,7 @@
   "description": "Registrador de Dispositivos (MAC)",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "nodemon app.js"
   },
   "author": "Luis Antonio Correa Leyva",
